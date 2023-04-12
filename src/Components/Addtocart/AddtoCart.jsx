@@ -11,7 +11,7 @@ const AddtoCart = () => {
   return (
     <div className='mainContainer'>
       {
-       (selectedProducts.length === 0) ? (<><h3>No Products available ...</h3><img src='https://cdn.dribbble.com/users/1787505/screenshots/7300251/shot.gif' style={{width:"200px",height:"200px"}} alt='image'/></>) : (
+       (selectedProducts.length === 0) ? (<><h3>No Products available ...</h3><img src='https://cdn.dribbble.com/users/1787505/screenshots/7300251/shot.gif' style={{width:"200px",height:"200px"}} alt='images'/></>) : (
         selectedProducts.map((ele)=>{
           return(
             <div className="card">
