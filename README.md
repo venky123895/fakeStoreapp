@@ -17,3 +17,4 @@ If you click on the products it will show the all the products and their details
 
 In add to cart section all the products available which we are stored into add cart section in this we can remove the products from the section by clicking on the remove button
 
+![fakeaddtocart](https://user-images.githubusercontent.com/114353712/231343190-e1e2b406-8de8-4870-a006-24780cf675c5.PNG)
